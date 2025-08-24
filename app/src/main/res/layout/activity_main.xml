@@ -26,9 +26,9 @@
         android:text="@string/surpreenda_me"
         android:onClick="surpreenderUsuario" />
     
-    <TextView
-        android:id="@+id/saudacaoTextView"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+<!--    <TextView-->
+<!--        android:id="@+id/saudacaoTextView"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content" />-->
 
 </LinearLayout>
